@@ -3,8 +3,7 @@ BİLGİSAYAR MÜHENDİSLİĞİ
 BLM0111 ALGORİTMALAR VE PROGRAMLAMA DERSİ PROJE ÖDEVİ
 
 ÖĞRENCİLERİN ADI - SOYADI: 
-ALP EREN BAL
-SAMET ÖZKAN
+ALP EREN BAL - SAMET ÖZKAN
 
 ÖĞRENCİLERİN GITHUB PROFILLERI:
 https://github.com/AlpEren-BAL
@@ -27,8 +26,8 @@ PROJE HAKKINDA ÖZET
 Projemizin amacı C programlama dilinde yazacağımız kodlarla kullanıcının gireceği metnin hangi dilde olduğunu anlayabilmektir. Bu projede bahsi geçen dillerimiz İngilizce ve Almanca’dır. Taslak kodda verilen bigram ve trigramların frekansları, kullanıcıdan alınan metinde taranarak hesaplanır ve dillerin frekans değerleriyle karşılaştırılır. Elde edilen frekans değerleri hangi dilin frekanslarına daha yakınsa metnin o dille yazıldığı belirtilir. 
 
 GÖREV DAĞILIMI
-Alp Eren Bal: Filtrelenen metnin harf sayısının hesaplanması, hesaplanan bigram ve trigram frekanslarının dil frekanslarıyla karşılaştırılması, girilen metnin dilinin belirlenmesi ve raporun hazırlanması görevleri verilmiştir.
-Samet Özkan: Metnin istenilmeyen karakterlerden temizlenmesi, metnin küçük harfe dönüştürülmesi, bigram ve trigram frekanslarının hesaplanması, raporun ve yorum satırlarının revize edilmesi görevleri verilmiştir.
+Alp Eren Bal'a filtrelenen metnin harf sayısının hesaplanması, hesaplanan bigram ve trigram frekanslarının dil frekanslarıyla karşılaştırılması, girilen metnin dilinin belirlenmesi ve raporun hazırlanması görevleri verilmiştir.
+Samet Özkan'a Metnin istenilmeyen karakterlerden temizlenmesi, metnin küçük harfe dönüştürülmesi, bigram ve trigram frekanslarının hesaplanması, raporun ve yorum satırlarının revize edilmesi görevleri verilmiştir.
 
 PROJE HAZIRLANIRKEN YAPILAN İŞLEMLER
 1) Öncelikle bu proje hazırlanırken yaptığımız ilk iş grubumuzu kurmaktı.
